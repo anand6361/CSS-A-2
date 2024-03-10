@@ -215,7 +215,7 @@ button{
 .card h1{
     text-align: center;
 }
-li{
+.card ul li{
     margin-left: 80px;
     font-size: larger;
     
